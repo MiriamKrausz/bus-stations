@@ -1,0 +1,19 @@
+.clock-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content:flex-start;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left:2px;
+  }
+  
+  .clock-title {
+    color:cyan;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .clock-time {
+    color: cyan;
+    font-size: 25px;
+  }
